@@ -23,7 +23,7 @@ This repository contains the implementation and analysis of five core Natural La
 ```text
 CENG467_Midterm/
 │
-├── datasets/            # Local datasets (Excluded from version control if >100MB)
+├── datasets/            # Local datasets (Excluded from version control)
 ├── q1.py                # Source code for Text Classification
 ├── q2.py                # Source code for Named Entity Recognition (NER)
 ├── q3.py                # Source code for Text Summarization
